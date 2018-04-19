@@ -105,3 +105,4 @@ repositories {
     mavenCentral()
     maven { url "http://maven.nuiton.org/release/"}
 }
+apply plugin: 'com.google.gms.google-services'
